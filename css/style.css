@@ -18,10 +18,16 @@ a {
   text-decoration: none;
 }
 
-.container {
+.big-container {
   padding: 0 10px;
   margin: 0 auto;
   max-width: 1220px;
+}
+
+.container {
+  padding: 0 10px;
+  margin: 0 auto;
+  max-width: 920px;
 }
 
 body {
